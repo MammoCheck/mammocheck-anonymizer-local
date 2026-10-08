@@ -1,4 +1,4 @@
-# MammoCheck Anonymizer (local)
+# MammoCheck Local Anonymizer
 
 Browser tool that anonymizes patient folders **on the user's own computer** and saves the anonymized copies back to it.
 Nothing is uploaded: there is no server, no account, no storage. The page is static (GitHub Pages); all processing runs in the browser (Web Workers + WASM).
